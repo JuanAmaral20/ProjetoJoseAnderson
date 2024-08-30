@@ -1,0 +1,29 @@
+.geral {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  min-height: 100vh;
+}
+
+.formCreate {
+  border-right: 2px solid white;
+  padding: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pageContainer {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background-color: white;
+  padding: 12px;
+
+  border-radius: 8px;
+}
+
+.listContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

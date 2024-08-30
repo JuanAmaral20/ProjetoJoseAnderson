@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding: 30px;
+  border-radius: 10px;
+  background-color: #2e2d4e;
+  max-width: 50%;
+  width: 400px;
+}
+
+.geral {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
